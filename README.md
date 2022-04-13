@@ -1,2 +1,2 @@
 # tutorial
-Tutorial web dengan laravel
+Tutorial web dengan laravel update...cuy
